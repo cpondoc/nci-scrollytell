@@ -1,0 +1,74 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+#header {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-align: center;
+    background: url(imgs/detrick.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#content-head {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+}
+
+#story {
+    padding-top: 30px;
+}
+
+.preface {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.row {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#header-title {
+    font-size: 60px;
+}
+
+#header-content {
+    font-size: 30px;
+}
+
+.preface-title {
+    font-size: 35px;
+}
+
+.preface-content {
+    font-size: 24px;
+}
+
+.story-content {
+    font-size: 21px;
+}
+
+#story-title {
+    font-size: 35px;
+}
+
+.story-image {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    align-content: center;
+    height: 400px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#footer {
+    text-align: center;
+}
